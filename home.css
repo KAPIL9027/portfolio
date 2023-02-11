@@ -482,3 +482,8 @@ header
     margin-left: auto;
     margin-right: auto;
 }
+
+#project-github-link
+{
+    margin-left: 50%;
+}
